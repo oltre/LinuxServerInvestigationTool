@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FieldLinuxServerInvestigationTool", "FieldLinuxServerInvestigationTool\FieldLinuxServerInvestigationTool.pyproj", "{BE9E47D6-6BA4-4648-BAD8-1FBD1086541A}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinuxServerInvestigationTool", "FieldLinuxServerInvestigationTool\LinuxServerInvestigationTool.pyproj", "{BE9E47D6-6BA4-4648-BAD8-1FBD1086541A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

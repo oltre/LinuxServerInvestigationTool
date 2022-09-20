@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>be9e47d6-6ba4-4648-bad8-1fbd1086541a</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>FieldLinuxServerInvestigationTool.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>FieldLinuxServerInvestigationTool</Name>
+    <Name>LinuxServerInvestigationTool</Name>
     <RootNamespace>FieldLinuxServerInvestigationTool</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -39,6 +40,7 @@
     <Compile Include="symfony_db_parser_ver01.py" />
     <Compile Include="wordpress_db_parser_ver01.py" />
     <Compile Include="SetupPath.py" />
+    <Compile Include="모듈1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
